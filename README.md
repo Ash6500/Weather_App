@@ -3,7 +3,7 @@ Weather App (HTML, CSS, JavaScript, and OpenWeather API)
 
 # Installation
 1. Download the zip file and paste it in the desired location.
-2. Unzip the contents of the file in the same directory using archiving/zipping softwares(7zip, WinRar, etc..)
+2. Unzip the contents of the file in the same directory using archiving/zipping softwares (7zip, WinRar, etc..)
 3. Open the directory on any IDE of your choice which supports Web Development.
 4. On the HTML file hit go live to run the project.
 5. That's it enjoy coding!!
